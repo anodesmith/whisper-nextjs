@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@banana-dev/banana-dev": "^4.0.0",
+    "banana-cli": "^1.0.0-alpha.1",
     "mic-recorder-to-mp3": "^2.2.2",
     "next": "12.3.0",
     "react": "18.2.0",
